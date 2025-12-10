@@ -1,1 +1,1 @@
-This Repository presents the code for the method described in "Template Masks for 4D-STEM" with example notebooks.
+This Repository presents the code for the method described in "Template Derived Masks for 4D-STEM" with example notebooks.
